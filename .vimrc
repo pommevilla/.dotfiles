@@ -26,3 +26,4 @@ inoremap ? ?<c-g>u
 syntax on
 
 autocmd vimenter * ++nested colorscheme gruvbox
+:set bg=dark
